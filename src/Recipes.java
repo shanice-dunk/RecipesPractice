@@ -1,4 +1,4 @@
-package Recipes;
+package Recipes.src;
 
 public class Recipes {
     protected String name;
