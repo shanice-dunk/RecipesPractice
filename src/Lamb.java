@@ -1,7 +1,7 @@
 package Recipes.src;
 
-public class Prawns extends Recipes {
-    Prawns(String name, String ingredients, int cost, int duration) {
+public class Lamb extends Recipes {
+    Lamb(String name, String ingredients, int cost, int duration) {
         super(name, ingredients, cost, duration);
     }
 
